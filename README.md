@@ -13,4 +13,5 @@ Step 4: Based on data in the final cleaned dataset, analysis and visualization w
 • 2 In which hours do Tweets get more retweets?
 • 3 Is there a relationship between rating and favourites?
 • 4 Is there a relationship between rating and retweet?
+
 However, the main goal of this project is to gain experience in gathering, assessing, and cleaning data. Therefore, Step 1 to Step 3 were the focus of this project.
